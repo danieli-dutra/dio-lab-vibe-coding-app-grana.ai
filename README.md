@@ -1,89 +1,278 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# 💰 Grana.ai
 
-Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
+## 🧭 Por que esse projeto existe?
 
-## ✨ O que é Vibe Coding
+Eu sempre tive a sensação de que organizar a vida financeira não deveria ser tão complicado.
 
-**Vibe Coding** é uma forma leve e criativa de desenvolver com IA, baseada em **conversas naturais e bem estruturadas**. Você não precisa escrever código linha por linha. Em vez disso, aprende a **guiar a IA** descrevendo suas ideias de forma clara, com **intenção e contexto**. Em outras palavras:
+Mesmo com tantos apps disponíveis, a maioria exige esforço demais, organização manual e, no fim, não ajuda a entender o que realmente está acontecendo com o dinheiro.
 
-> Você mostra a vibe da sua ideia e a IA transforma em solução (ou em um caminho para ela).
+O Grana.ai nasce dessa inquietação: tornar o controle financeiro algo simples, natural e presente no dia a dia.
 
-## 🎯 Desafio
+---
 
-Problema: Muitas pessoas não conseguem manter um controle financeiro porque os aplicativos exigem muita entrada de dados manual, e a criação de orçamentos é vista como algo tedioso. 
+## 💡 O que é o Grana.ai?
 
-Precisamos de uma solução que permita **controlar as finanças por meio de uma conversa simples**, com **agentes de IA** capazes de criar **planos de economia personalizados e automatizados**. Você deve utilizar as ideias de **Vibe Coding** e **MVP (Produto Mínimo Viável)** para desenvolver o **conceito de um aplicativo** que resolva o problema citado.
+O Grana.ai é um aplicativo de finanças pessoais que combina duas formas de interação:
 
-> [!IMPORTANT]
-> Você **não precisa construir o código**! O foco está em **usar a IA como sua parceira criativa**, transformando boas ideias e prompts em conceitos funcionais que simulam um produto real.
+- 💬 uma conversa simples, quase como falar com alguém  
+- 📊 uma visão clara da sua “carteira”  
 
-## 🪄 Etapas do Desafio
+A ideia é permitir que você registre, entenda e tome decisões financeiras sem precisar pensar em planilhas ou sistemas complexos.
 
-### 1. Saber o que Pedir é a Chave! Otimize seus Prompts!
+---
 
-Antes de pedir para a IA "criar um app", é importante definir com clareza o que você quer construir e por quê. Para isso, você vai criar um **PRD (Product Requirements Document)** simplificado, uma especificação que serve como _briefing_ para a IA entender sua ideia.
+## ⚙️ Como funciona na prática
 
-Um bom PRD deve descrever o problema, quem será beneficiado, as principais funcionalidades e o que você espera que a IA entregue. Use o modelo abaixo como ponto de partida e adapte conforme o seu estilo:
+Você pode usar o app de forma natural, como faria em uma conversa:
 
-```txt
-# Contexto
-Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.  
-A ideia é facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.
+- "Gastei 30 no almoço"  
+- "Assinei Netflix por 39,90"  
+- "Guardei 100 para viagem"  
 
-# Problema
-Muitas pessoas desistem de controlar seus gastos porque os apps atuais exigem muita entrada manual e pouca personalização.  
-Quero resolver isso com uma experiência de conversa e recomendações automáticas de economia.
+A partir disso, o sistema organiza tudo automaticamente.
 
-# Público-Alvo
-Pessoas que querem começar a organizar suas finanças de forma prática e sem complicação, principalmente iniciantes.
+Ele entende o tipo de transação, classifica a categoria e atualiza o que for necessário, incluindo metas.
 
-# Funcionalidades-Chave
-1. Registrar gastos via chat em linguagem natural.  
-2. Classificar automaticamente as transações.  
-3. Definir e acompanhar metas financeiras.  
-4. Receber dicas de economia do “Agente Financeiro”.  
-5. Visualizar relatórios simples e personalizados.
+---
 
-# Entregável da IA
-Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
-Usar tom educativo e linguagem acessível, em português.
-```
+## 🎯 O que esse projeto resolve
 
-Depois de preencher o modelo, use o Copilot Web para revisar e melhorar o seu prompt antes de ir ao Lovable. A ideia é lapidar o texto até que ele fique claro, direto e reflita exatamente a sua intenção.
+Mais do que registrar gastos, o Grana.ai busca resolver alguns problemas comuns:
 
-> [!TIP]
-> Pense no PRD/Prompt como “o briefing que a IA precisa para entender sua vibe”. Portanto, quanto mais claro e intencional for o texto, mais próximas do ideal serão as respostas da IA.
+- dificuldade em manter consistência no controle financeiro  
+- falta de clareza sobre para onde o dinheiro está indo  
+- subestimação de pequenos gastos recorrentes  
+- ausência de orientação prática no momento certo  
 
-### 2. Explorando o Lovable na Prática
+A proposta aqui é reduzir fricção e aumentar consciência.
 
-Com seu PRD pronto e revisado, é hora de colocar a IA em ação. Abra o Lovable, cole seu prompt completo e peça o plano inicial do MVP do seu aplicativo. Como o plano gratuito limita você a 5 interações por dia, seja estratégico:
-- Faça perguntas diretas e construtivas, como “crie o fluxo de telas com base nas funcionalidades listadas” ou “gere uma versão resumida do plano de MVP”;
-- Priorize clareza nas instruções para aproveitar ao máximo cada resposta;
+---
 
-Durante essa etapa, você pode orientar a IA para três entregas principais:
-1. Agente Financeiro: defina o comportamento e o tom de voz de um consultor financeiro pessoal, alinhado ao público e objetivo do app.
-2. Fluxo de Telas: peça à IA para gerar o fluxo conceitual de telas com base nas funcionalidades descritas no PRD, simulando a interação por conversa.
-3. Plano de MVP: solicite um resumo das 5 funcionalidades principais, dos recursos necessários e um plano de validação inicial (como medir se o app cumpre seu propósito).
+## ✨ Principais funcionalidades
 
-> [!TIP]
-> Se preferir, você pode fazer tudo com o **Copilot**. O importante é exercitar a habilidade de transformar intenções em instruções claras e testar os limites da IA como parceira criativa.
+- 🧾 registro de gastos usando linguagem natural  
+- 🏷️ categorização automática (incluindo streaming e compras online)  
+- 🎯 metas financeiras com acompanhamento de progresso  
+- 💰 contribuição para metas direto pela conversa  
+- 📈 sugestão automática de poupança baseada na sobra do mês  
+- 📊 dashboard com gráfico e legenda  
+- 🔔 notificações leves para confirmação de ações  
+- 🧠 insights baseados em comportamento  
 
-### 3. Entregando o Desafio na DIO
+---
 
-Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
-No README do seu repositório, inclua:
+## 🧩 Estrutura do app
 
-- Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
-- Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+A experiência foi pensada como uma “carteira pessoal digital”.
 
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
+### 🟣 Início
 
-## 💬 Conclusão
+- receitas, despesas e saldo  
+- resumo das metas  
+- mini dashboard  
 
-Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+### 💬 Chat
+
+- registrar gastos  
+- tirar dúvidas  
+- receber insights  
+
+### 🎯 Metas
+
+- progresso visual  
+- histórico  
+- atualização automática  
+
+---
+
+## 🎨 Design
+
+- 🌙 tema escuro  
+- 🟣 cores em roxo e azul  
+- 🧼 interface limpa  
+- 🎯 foco na clareza  
+
+A intenção nunca foi impressionar pelo excesso, mas pela simplicidade.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+- 🧠 Lovable  
+- 🎨 Figma  
+- 🧩 UX/UI Design  
+- ⚙️ lógica baseada em regras  
+
+---
+
+## 🔄 Reflexão sobre o processo
+
+### ✅ O que funcionou bem
+
+A combinação entre conversa e visualização trouxe equilíbrio.
+
+O app deixou de ser apenas um registrador de gastos e passou a ajudar na leitura da própria vida financeira.
+
+A criação da “carteira” como tela principal melhorou muito a experiência.
+
+Separar confirmações (notificações) e insights (chat) deixou tudo mais fluido.
+
+---
+
+### ⚠️ O que não saiu como esperado no início
+
+A primeira versão ficou muito dependente do chat.
+
+As respostas eram repetitivas, a categorização inconsistente e faltava integração entre funcionalidades como metas e contribuições.
+
+Isso mostrou que só descrever funcionalidades não era suficiente.
+
+Foi necessário definir regras claras de comportamento.
+
+---
+
+### 🧠 O que aprendi nesse processo
+
+A qualidade do resultado depende diretamente da clareza das instruções.
+
+Aprendi que:
+
+- regras específicas melhoram muito o resultado  
+- pequenos detalhes impactam diretamente a experiência  
+- iterar faz parte do processo  
+
+Construir com IA exigiu pensar como produto, não apenas como execução.
+
+---
+
+## 📄 PRD — Product Requirements Document
+
+Como parte do desenvolvimento, foi estruturado um PRD para organizar a lógica, o comportamento e a experiência do produto.
+
+---
+
+### 🧭 Contexto
+
+O Grana.ai combina conversa e visualização para simplificar o controle financeiro.
+
+---
+
+### 🎯 Problema
+
+- dificuldade em manter controle financeiro  
+- falta de clareza sobre gastos  
+- insights pouco úteis  
+
+---
+
+### 👥 Público-alvo
+
+- iniciantes em finanças  
+- usuários que buscam simplicidade  
+- pessoas sem conhecimento técnico  
+
+---
+
+### 💡 Proposta de valor
+
+- registrar gastos facilmente  
+- organizar automaticamente  
+- gerar insights relevantes  
+- integrar metas ao dia a dia  
+
+---
+
+### 🧩 Estrutura
+
+- onboarding  
+- carteira (home)  
+- chat  
+- metas  
+
+---
+
+### 💬 Comportamento
+
+- confirmações → notificações  
+- insights → chat  
+
+---
+
+### 🏷️ Categorias
+
+- Alimentação  
+- Transporte  
+- Moradia  
+- Lazer  
+- Saúde  
+- Educação  
+- Assinaturas  
+- Streaming  
+- Compras Online  
+- Outros  
+
+---
+
+### 🎯 Metas
+
+Reconhece contribuições via linguagem natural e atualiza progresso automaticamente.
+
+---
+
+### 💰 Sugestão de poupança
+
+- margem: 10%  
+- sugestão: 30% da sobra  
+
+---
+
+### 🧠 Insights
+
+Baseados em comportamento, não apenas em dados.
+
+---
+
+### 🎨 Design
+
+- tema escuro  
+- visual limpo  
+- alto contraste  
+
+---
+
+### ⚙️ Restrições
+
+- sem integrações externas  
+- sem autenticação real  
+- lógica simples (MVP)  
+
+---
+
+### 📦 Entregáveis
+
+- onboarding  
+- carteira estruturada  
+- chat funcional  
+- dashboard com legenda  
+- metas com progresso  
+- contribuição para metas  
+- sugestão de poupança  
+- insights relevantes  
+
+---
+
+## 📸 Preview
+
+![Grana.ai Preview](./assets/preview.png)
+
+---
+
+## 🔗 Acesso ao projeto
+
+👉 https://grana-ai-assistente.lovable.app
+
+---
+
+## 👩‍💻 Sobre mim
+
+Projeto desenvolvido por Danieli (Dutra) Braga como parte da transição para a área de tecnologia, com foco em UX, produto e desenvolvimento.
