@@ -1,4 +1,4 @@
-# 💰 Grana.ai
+# 💸 Grana.ai
 
 ## 🧭 Por que esse projeto existe?
 
@@ -97,9 +97,9 @@ A intenção nunca foi impressionar pelo excesso, mas pela simplicidade.
 ---
 
 ## 🛠️ Tecnologias e ferramentas
-
-- 🧠 Lovable  
-- 🎨 Figma  
+ 
+- 🎨 Lovable
+- 🧠 Copilot / ChatGPT
 - 🧩 UX/UI Design  
 - ⚙️ lógica baseada em regras  
 
@@ -275,4 +275,4 @@ Baseados em comportamento, não apenas em dados.
 
 ## 👩‍💻 Sobre mim
 
-Projeto desenvolvido por Danieli (Dutra) Braga como parte da transição para a área de tecnologia, com foco em UX, produto e desenvolvimento.
+Projeto desenvolvido por Danieli Dutra como parte de um DESAFIO do Bootcamp LUPO na [DIO](https://www.dio.me/).
