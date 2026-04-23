@@ -2,7 +2,9 @@
 
 ## 🧭 Por que esse projeto existe?
 
-Eu sempre tive a sensação de que organizar a vida financeira não deveria ser tão complicado.
+Como parte do DESAFIO de Projeto no BOOTCAMP LUPO NA [DIO](https://www.dio.me/), precisei desenvolver um APP de Organização de Finanças Pessoais com Vibe Coding.
+
+Na verdade, eu sempre tive a sensação de que organizar a vida financeira não deveria ser tão complicado.
 
 Mesmo com tantos apps disponíveis, a maioria exige esforço demais, organização manual e, no fim, não ajuda a entender o que realmente está acontecendo com o dinheiro.
 
