@@ -277,4 +277,4 @@ Baseados em comportamento, não apenas em dados.
 
 ## 👩‍💻 Sobre mim
 
-Projeto desenvolvido por Danieli Dutra como parte de um DESAFIO do Bootcamp LUPO na [DIO](https://www.dio.me/).
+Projeto desenvolvido por Danieli Dutra como parte da transição para a área de tecnologia, com foco em UX, produto e desenvolvimento.
