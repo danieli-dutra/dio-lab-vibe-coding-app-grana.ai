@@ -1,10 +1,18 @@
-# 💸 Grana.ai
+# 💰 Grana.ai
+
+![Status](https://img.shields.io/badge/status-concluído-7C5CFF)
+![Projeto](https://img.shields.io/badge/DIO-Lab%20Vibe%20Coding-blue)
+![Feito com](https://img.shields.io/badge/feito%20com-Lovable-purple)
+
+![Grana.ai Preview](./assets/preview.png)
+
+🔗 **Acesse o projeto:** https://grana-ai-assistente.lovable.app
+
+---
 
 ## 🧭 Por que esse projeto existe?
 
-Como parte do DESAFIO de Projeto no BOOTCAMP LUPO na [DIO](https://www.dio.me/), precisei desenvolver um APP de Organização de Finanças Pessoais com Vibe Coding.
-
-Na verdade, eu sempre tive a sensação de que organizar a vida financeira não deveria ser tão complicado.
+Eu sempre tive a sensação de que organizar a vida financeira não deveria ser tão complicado.
 
 Mesmo com tantos apps disponíveis, a maioria exige esforço demais, organização manual e, no fim, não ajuda a entender o que realmente está acontecendo com o dinheiro.
 
@@ -19,7 +27,7 @@ O Grana.ai é um aplicativo de finanças pessoais que combina duas formas de int
 - 💬 uma conversa simples, quase como falar com alguém  
 - 📊 uma visão clara da sua “carteira”  
 
-A ideia é permitir que você registre, entenda e tome decisões financeiras sem precisar pensar em planilhas ou sistemas complexos.
+A ideia é permitir que você registre, entenda e tome decisões financeiras sem precisar lidar com planilhas ou sistemas complexos.
 
 ---
 
@@ -39,7 +47,7 @@ Ele entende o tipo de transação, classifica a categoria e atualiza o que for n
 
 ## 🎯 O que esse projeto resolve
 
-Mais do que registrar gastos, o Grana.ai busca resolver alguns problemas comuns:
+Mais do que registrar gastos, o Grana.ai busca resolver problemas reais:
 
 - dificuldade em manter consistência no controle financeiro  
 - falta de clareza sobre para onde o dinheiro está indo  
@@ -68,19 +76,16 @@ A proposta aqui é reduzir fricção e aumentar consciência.
 A experiência foi pensada como uma “carteira pessoal digital”.
 
 ### 🟣 Início
-
 - receitas, despesas e saldo  
 - resumo das metas  
 - mini dashboard  
 
 ### 💬 Chat
-
 - registrar gastos  
 - tirar dúvidas  
 - receber insights  
 
 ### 🎯 Metas
-
 - progresso visual  
 - histórico  
 - atualização automática  
@@ -99,9 +104,10 @@ A intenção nunca foi impressionar pelo excesso, mas pela simplicidade.
 ---
 
 ## 🛠️ Tecnologias e ferramentas
- 
-- 🎨 Lovable
-- 🧠 Copilot / ChatGPT
+
+- 🧠 Lovable  
+- 🤖 ChatGPT  
+- 🎨 Figma  
 - 🧩 UX/UI Design  
 - ⚙️ lógica baseada em regras  
 
@@ -149,18 +155,12 @@ Construir com IA exigiu pensar como produto, não apenas como execução.
 
 ## 📄 PRD — Product Requirements Document
 
-Como parte do desenvolvimento, foi estruturado um PRD para organizar a lógica, o comportamento e a experiência do produto.
-
----
-
 ### 🧭 Contexto
-
 O Grana.ai combina conversa e visualização para simplificar o controle financeiro.
 
 ---
 
 ### 🎯 Problema
-
 - dificuldade em manter controle financeiro  
 - falta de clareza sobre gastos  
 - insights pouco úteis  
@@ -168,7 +168,6 @@ O Grana.ai combina conversa e visualização para simplificar o controle finance
 ---
 
 ### 👥 Público-alvo
-
 - iniciantes em finanças  
 - usuários que buscam simplicidade  
 - pessoas sem conhecimento técnico  
@@ -176,7 +175,6 @@ O Grana.ai combina conversa e visualização para simplificar o controle finance
 ---
 
 ### 💡 Proposta de valor
-
 - registrar gastos facilmente  
 - organizar automaticamente  
 - gerar insights relevantes  
@@ -185,7 +183,6 @@ O Grana.ai combina conversa e visualização para simplificar o controle finance
 ---
 
 ### 🧩 Estrutura
-
 - onboarding  
 - carteira (home)  
 - chat  
@@ -193,15 +190,7 @@ O Grana.ai combina conversa e visualização para simplificar o controle finance
 
 ---
 
-### 💬 Comportamento
-
-- confirmações → notificações  
-- insights → chat  
-
----
-
 ### 🏷️ Categorias
-
 - Alimentação  
 - Transporte  
 - Moradia  
@@ -215,66 +204,13 @@ O Grana.ai combina conversa e visualização para simplificar o controle finance
 
 ---
 
-### 🎯 Metas
-
-Reconhece contribuições via linguagem natural e atualiza progresso automaticamente.
-
----
-
-### 💰 Sugestão de poupança
+### 💰 Regra de poupança
 
 - margem: 10%  
 - sugestão: 30% da sobra  
 
 ---
 
-### 🧠 Insights
-
-Baseados em comportamento, não apenas em dados.
-
----
-
-### 🎨 Design
-
-- tema escuro  
-- visual limpo  
-- alto contraste  
-
----
-
-### ⚙️ Restrições
-
-- sem integrações externas  
-- sem autenticação real  
-- lógica simples (MVP)  
-
----
-
-### 📦 Entregáveis
-
-- onboarding  
-- carteira estruturada  
-- chat funcional  
-- dashboard com legenda  
-- metas com progresso  
-- contribuição para metas  
-- sugestão de poupança  
-- insights relevantes  
-
----
-
-## 📸 Preview
-
-![Grana.ai Preview](./assets/preview.png)
-
----
-
-## 🔗 Acesso ao projeto
-
-👉 https://grana-ai-assistente.lovable.app
-
----
-
 ## 👩‍💻 Sobre mim
 
-Projeto desenvolvido por Danieli Dutra como parte da transição para a área de tecnologia, com foco em UX, produto e desenvolvimento.
+Projeto desenvolvido por Danieli Braga como parte da transição para a área de tecnologia, com foco em UX, produto e desenvolvimento.
