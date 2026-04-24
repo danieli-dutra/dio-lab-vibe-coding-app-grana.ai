@@ -213,4 +213,4 @@ O Grana.ai combina conversa e visualização para simplificar o controle finance
 
 ## 👩‍💻 Sobre mim
 
-Projeto desenvolvido por Danieli Braga como parte da transição para a área de tecnologia, com foco em UX, produto e desenvolvimento.
+Projeto desenvolvido por Danieli Dutra como parte da transição para a área de tecnologia, com foco em UX, produto e desenvolvimento.
