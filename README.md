@@ -71,6 +71,19 @@ A proposta aqui é reduzir fricção e aumentar consciência.
 
 ---
 
+## 🚀 Evoluções recentes
+
+Após os primeiros testes com usuários e iterações de produto, o Grana.ai recebeu melhorias importantes:
+
+- 🧠 Assistente mais contextual e menos genérico
+- 🏷️ Correção inteligente de categorias financeiras
+- 🔄 Reconhecimento de despesas recorrentes
+- 💬 Melhor interpretação entre comandos, consultas e pedidos de orientação
+- 📊 Dashboard mais consistente com os lançamentos
+- 🎯 Melhor integração entre gastos e metas
+
+---
+
 ## 🧩 Estrutura do app
 
 A experiência foi pensada como uma “carteira pessoal digital”.
