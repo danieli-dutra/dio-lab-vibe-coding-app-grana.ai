@@ -71,16 +71,27 @@ A proposta aqui é reduzir fricção e aumentar consciência.
 
 ---
 
-## 🚀 Evoluções recentes
+## 🎯 Próximos passos do produto
 
-Após os primeiros testes com usuários e iterações de produto, o Grana.ai recebeu melhorias importantes:
+### Fase atual
+✅ Desenvolvimento com Vibe Coding + Lovable  
+✅ Testes internos diários  
+✅ Correções de UX e IA  
 
-- 🧠 Assistente mais contextual e menos genérico
-- 🏷️ Correção inteligente de categorias financeiras
-- 🔄 Reconhecimento de despesas recorrentes
-- 💬 Melhor interpretação entre comandos, consultas e pedidos de orientação
-- 📊 Dashboard mais consistente com os lançamentos
-- 🎯 Melhor integração entre gastos e metas
+### Próxima fase
+🔜 Testes com familiares e amigos  
+🔜 Coleta de feedback com Google Forms  
+🔜 Identificação de padrões de uso reais  
+🔜 Iterações baseadas em dados de usuários
+
+---
+
+## 🧪 Validação com usuários
+
+O Grana.ai está evoluindo com base em testes reais e iterações contínuas.
+
+📄 Veja o plano de validação:
+[Validation Roadmap](./docs/validation-roadmap.md)
 
 ---
 
@@ -113,6 +124,16 @@ A experiência foi pensada como uma “carteira pessoal digital”.
 - 🎯 foco na clareza  
 
 A intenção nunca foi impressionar pelo excesso, mas pela simplicidade.
+
+---
+
+## 🔄 Evolução do Produto
+
+### Protótipo
+![Prototype](./assets/testing/prototipo-grana-ai.png)
+
+### Layout Evolution
+![Layout Evolution](./assets/screenshots/before-after-layout.png)
 
 ---
 
