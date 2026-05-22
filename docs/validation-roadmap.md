@@ -332,8 +332,6 @@ Nesta fase, o produto já demonstra:
 
 ## Próximo marco
 
-## Próximo marco
-
 Realização dos primeiros testes externos controlados com familiares, amigos e colegas.
 
 Objetivos da fase:
