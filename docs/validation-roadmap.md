@@ -15,8 +15,10 @@ A hipótese central do produto é:
 O Grana.ai busca resolver isso através de:
 
 - Conversas naturais
-- Registro financeiro por linguagem humana
-- Metas financeiras visuais
+- Registro financeiro por linguagem natural
+- Metas financeiras integradas
+- Dashboard contextual
+- Score de saúde financeira
 - Insights personalizados
 - Acompanhamento comportamental
 
@@ -104,6 +106,33 @@ Testes observacionais com lançamentos ambíguos.
 
 ---
 
+## Hipótese 05 — Perguntas aumentam confiança
+
+> Usuários confiam mais no sistema quando ele reconhece ambiguidades e pede confirmação antes de registrar um lançamento.
+
+### Como validar:
+
+Testes com entradas incompletas ou ambíguas.
+
+### Exemplos:
+
+- "comprei 50"
+- "pix de 30"
+- "salvei 100"
+
+### Sinais positivos:
+
+- Usuário responde à pergunta do assistente sem frustração;
+- Usuário percebe maior precisão no sistema;
+- Redução de lançamentos incorretos.
+
+### Métrica inicial:
+
+- taxa de confirmação aceita;
+- número de correções após categorização.
+
+---
+
 
 # 👥 Público inicial de validação
 
@@ -171,6 +200,36 @@ Corrigir:
 - um lançamento classificado como despesa em vez de meta;
 - uma interpretação ambígua feita pelo assistente.
 
+## Cenário 05
+
+Testar entradas ambíguas.
+
+Exemplos:
+
+- "comprei 50"
+- "pix de 30"
+- "salvei 100"
+
+Objetivo:
+
+Verificar se o assistente pede confirmação antes de registrar.
+
+---
+
+## Cenário 06
+
+Perguntar sobre saúde financeira.
+
+Exemplos:
+
+- "como está minha saúde financeira?"
+- "estou gastando muito?"
+- "como estou financeiramente?"
+
+Objetivo:
+
+Verificar se o assistente interpreta contexto financeiro e oferece análise útil.
+
 ---
 
 # 📋 Coleta de feedback
@@ -229,15 +288,20 @@ Após os testes, priorizar:
 
 ## IA
 
-- Melhorar memória contextual
-- Melhorar interpretação de intenções
-- Reduzir respostas genéricas
+- Refinar parser determinístico
+- Melhorar interpretação contextual
+- Aprimorar memória de recorrência
+- Melhorar análise da saúde financeira
+- Reduzir ambiguidade em lançamentos
+- Tornar insights mais personalizados
 
 ## Produto
 
-- Score de saúde financeira
+- Saúde financeira contextual via assistente
 - Gastos recorrentes automáticos
-- Recomendações personalizadas
+- Memória financeira persistente
+- Recomendações mais personalizadas
+- Histórico inteligente de padrões financeiros
 
 ---
 
@@ -247,19 +311,35 @@ Após os testes, priorizar:
 
 MVP funcional em evolução contínua com:
 
-- Lovable + Vibe Coding
-- Iterações diárias orientadas por testes reais
-- Correções baseadas em comportamento do agente
-- Parser financeiro com regras determinísticas
-- Sistema de categorização com fallback por confiança
+* Lovable + Vibe Coding
+* Iterações diárias orientadas por testes reais
+* Parser financeiro determinístico
+* Sistema de categorização por merchants e contexto
+* Correções contextuais do assistente
+* Metas desacopladas de despesas
+* Dashboard financeiro integrado
+* Score de saúde financeira
+* Insights comportamentais
 
 Nesta fase, o produto já demonstra:
 
-- reconhecimento de merchants e serviços recorrentes;
-- metas separadas de despesas;
-- correções contextuais;
-- insights financeiros mais humanos e personalizados.
+* reconhecimento de merchants recorrentes (Netflix, Amazon Prime, farmácia, internet etc.);
+* diferenciação entre receitas, despesas e metas;
+* fallback por confiança para entradas ambíguas;
+* correções naturais via contexto conversacional;
+* respostas mais humanas e contextualizadas;
+* comportamento orientado a hábitos financeiros.
 
 ## Próximo marco
 
-Primeiros testes externos com usuários reais.
+## Próximo marco
+
+Realização dos primeiros testes externos controlados com familiares, amigos e colegas.
+
+Objetivos da fase:
+
+- validar clareza da experiência;
+- medir confiança no assistente;
+- identificar fricções conversacionais;
+- testar precisão da categorização;
+- coletar feedback para refinamento do produto.
